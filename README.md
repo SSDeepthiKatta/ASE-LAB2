@@ -12,6 +12,9 @@ Create 3 Web Pages.
 •	Home Page created with Directions and Weather between two Cities using Google API's.
 
 Task 3:
+Check the Quality of Code in JSLint.
+
+Task 4:
 Create Repository in GitHub.
 •	Source is dumped into the Source code folder.
 •	Screenshots are given in Documentation folder.
