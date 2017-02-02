@@ -9,7 +9,7 @@ Task 2:
 Create 3 Web Pages. 
 •	Registration Page to create a Account for a User.
 •	Login Page to get User Credentials.
-•	Home Page created with Google API’s to get Directions and Weather between two Cities.
+•	Home Page created with Directions and Weather between two Cities using Google API's.
 
 Task 3:
 Create Repository in GitHub.
