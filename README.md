@@ -2,16 +2,16 @@
 
 # Create Wireframe and a Web Application with 3 Pages.
 
-# Task 1:
+Task 1:
 Create Wireframes for Web Pages.
 
-# Task 2: 
+Task 2: 
 Create 3 Web Pages. 
 •	Registration Page to create a Account for a User.
 •	Login Page to get User Credentials.
 •	Home Page created with Google API’s to get Directions and Weather between two Cities.
 
-# Task 3:
+Task 3:
 Create Repository in GitHub.
 •	Source is dumped into the Source code folder.
 •	Screenshots are given in Documentation folder.
