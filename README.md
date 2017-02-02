@@ -3,7 +3,7 @@
 # Create Wireframe and a Web Application with 3 Pages.
 
 # Task 1:
-Create Wireframes for Website Pages.
+Create Wireframes for Web Pages.
 
 # Task 2: 
 Create 3 Web Pages. 
