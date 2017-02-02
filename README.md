@@ -18,7 +18,7 @@ Create Repository in GitHub.
 •	Detailed Report of the Assignment is given in Wiki Page.
 
 Wiki Page for Lab Assignment 2
-
+https://github.com/SSDeepthiKatta/ASE-LAB2/wiki
 
 # CLASS ID : 41
 Name : Satya Sai Deepthi Katta
