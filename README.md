@@ -5,7 +5,8 @@
 # Task 1:
 Create Wireframes for Web Pages.
 
-# Task 2:Create 3 Web Pages. 
+# Task 2:
+Create 3 Web Pages. 
 •	Registration Page to create a Account for a User.
 •	Login Page to get User Credentials.
 •	Home Page created with Directions and Weather between two Cities using Google API's.
@@ -13,7 +14,8 @@ Create Wireframes for Web Pages.
 # Task 3:
 Check the Quality of Code in JSLint.
 
-# Task 4:Create Repository in GitHub.
+# Task 4:
+Create Repository in GitHub.
 •	Source is dumped into the Source code folder.
 •	Screenshots are given in Documentation folder.
 •	Detailed Report of the Assignment is given in Wiki Page.
